@@ -54,7 +54,7 @@ dependencyResolutionManagement {
             library('postgresql-driver', 'org.postgresql:postgresql:42.7.1')
 
             // threeten additional Java8 Time classes
-            library('threeten-extra', 'org.threeten:threeten-extra:1.7.0')
+            library('threeten-extra', 'org.threeten:threeten-extra:1.7.2')
 
             // Resilience4j retry library for backoff algorithm
             library('resilience4j-retry', 'io.github.resilience4j:resilience4j-retry:2.2.0')
