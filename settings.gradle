@@ -73,7 +73,7 @@ dependencyResolutionManagement {
 
             library('testng', 'org.testng:testng:7.9.0')
 
-            library('errorprone-core', 'com.google.errorprone:error_prone_core:2.24.1') // # was using def in gradle files
+            library('errorprone-core', 'com.google.errorprone:error_prone_core:2.26.1') // # was using def in gradle files
         }
     }
 }
