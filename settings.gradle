@@ -51,7 +51,7 @@ dependencyResolutionManagement {
             library('prometheus-pushgateway', 'io.prometheus:simpleclient_pushgateway:latest.release')
 
             // PostgreSQL
-            library('postgresql-driver', 'org.postgresql:postgresql:42.7.3')
+            library('postgresql-driver', 'org.postgresql:postgresql:42.7.4')
 
             // threeten additional Java8 Time classes
             library('threeten-extra', 'org.threeten:threeten-extra:1.8.0')
