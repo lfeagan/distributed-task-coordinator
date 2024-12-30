@@ -40,7 +40,7 @@ dependencyResolutionManagement {
             library('slf4j-api', 'org.slf4j:slf4j-api:2.0.16')
             library('logback-classic', 'ch.qos.logback:logback-classic:1.5.15')
             // Janino (for Logback conditional processing)
-            library('janino', 'org.codehaus.janino:janino:3.1.11')
+            library('janino', 'org.codehaus.janino:janino:3.1.12')
 
             // micrometer for metrics
             version('micrometer', '1.10.5')
