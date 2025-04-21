@@ -34,7 +34,7 @@ dependencyResolutionManagement {
             }
 
             // Google Guava for ImmutableSet
-            library('guava', 'com.google.guava:guava:33.4.7-jre')
+            library('guava', 'com.google.guava:guava:33.4.8-jre')
 
             // SLF4J & Loggging
             library('slf4j-api', 'org.slf4j:slf4j-api:2.0.17')
