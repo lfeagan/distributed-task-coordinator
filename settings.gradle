@@ -13,7 +13,7 @@ dependencyResolutionManagement {
         libs {
             // Annotations
             library('spotbugs-annotations', 'com.github.spotbugs:spotbugs-annotations:4.9.4')
-            library('jetbrains-annotations', 'org.jetbrains:annotations:26.0.2')
+            library('jetbrains-annotations', 'org.jetbrains:annotations:26.0.2-1')
 
             // Project Lombok
             version('lombok', '1.18.22')
