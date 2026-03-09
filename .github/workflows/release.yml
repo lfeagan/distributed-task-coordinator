@@ -68,7 +68,7 @@ jobs:
 
       - name: Import GPG key
         id: gpg
-        uses: crazy-max/ghaction-import-gpg@v6
+        uses: crazy-max/ghaction-import-gpg@v7
         if: |
           github.event_name != 'release'
           && github.ref == 'refs/heads/main'
