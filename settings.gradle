@@ -57,7 +57,7 @@ dependencyResolutionManagement {
             library('threeten-extra', 'org.threeten:threeten-extra:1.8.0')
 
             // Resilience4j retry library for backoff algorithm
-            library('resilience4j-retry', 'io.github.resilience4j:resilience4j-retry:2.3.0')
+            library('resilience4j-retry', 'io.github.resilience4j:resilience4j-retry:2.4.0')
 
             // Java Memory Allocation Tracing
             library('java-allocation-instrumenter', 'com.google.code.java-allocation-instrumenter:java-allocation-instrumenter:3.3.4')
