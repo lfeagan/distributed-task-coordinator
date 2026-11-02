@@ -60,7 +60,7 @@ dependencyResolutionManagement {
             library('resilience4j-retry', 'io.github.resilience4j:resilience4j-retry:2.4.0')
 
             // Java Memory Allocation Tracing
-            library('java-allocation-instrumenter', 'com.google.code.java-allocation-instrumenter:java-allocation-instrumenter:3.3.4')
+            library('java-allocation-instrumenter', 'com.google.code.java-allocation-instrumenter:java-allocation-instrumenter:3.3.5')
 
             version('testcontainers', '1.18.3')
             library('testcontainers', 'org.testcontainers', 'testcontainers').versionRef('testcontainers')
